@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="pretraga">pretraga</string>
+    <string name="dodaj_novo_mesto">dodaj novo mesto</string>
+    <string name="mapa">mapa</string>
+    <string name="lista">lista</string>
+</resources>
