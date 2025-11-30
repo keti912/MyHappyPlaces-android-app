@@ -1,0 +1,2 @@
+# MyHappyPlaces-android-app
+keti
