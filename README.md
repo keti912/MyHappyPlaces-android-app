@@ -1,2 +1,2 @@
 # MyHappyPlaces-android-app
-keti
+Project for course development of Android application  
